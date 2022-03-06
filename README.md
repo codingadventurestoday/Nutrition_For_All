@@ -9,8 +9,8 @@ The immediate phases will be focused around creating a website for individual's 
 The final phases will be focused around incorporating videos to help users take the infomation and blend into their lives 
 
 Early Phase Projects:
-- Create a calculator for determining an individual's Basal Metabolic Rate 
-- Create a calculator for determining an individual's suggested Caloric intake to reach their goal
+- Create a calculator for determining an individual's Basal Metabolic Rate ##Update created in Metabolic.py 
+- Create a calculator for determining an individual's suggested Caloric intake to reach their goal ##Update created in Metabolic.py
 - Ultitze Caloric Intake calculator to provide rough guidelines around macro gram intake
 - Translation of macro intake guideline to portion sizes 
 - Create a recipe generator which takes inputs of food by the user and provides suggested meals to make
